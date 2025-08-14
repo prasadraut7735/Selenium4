@@ -130,6 +130,7 @@ public class CustomX_PATH {
  *   				.CLASSNAME[attr='value']#ID
  *   				#ID[attr='value'].CLASSNAME
  *   
+ *   
  *   6. Text not supported in the CSS Selector
  *   
  *   7.CONTAINS
